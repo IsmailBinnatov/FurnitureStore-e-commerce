@@ -1,6 +1,3 @@
-from email.mime import image
-from os import name
-from unicodedata import category
 from django.db import models
 
 

@@ -6,7 +6,6 @@ from goods.models import Category
 
 # Create your views here.
 def index(request):
-
     context = {
         'title': 'Home',
         'content': 'Магазин мебели HOME',
